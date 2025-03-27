@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <!-- Your SEO meta tags -->
+  <title>Clean Beauty Scanner | Check Toxins in Skincare</title>
+  <meta name="description" content="Scan beauty product ingredients for harmful chemicals. Get clean alternatives instantly.">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="scanner-container">
+    <h1>Clean Beauty Scanner</h1>
+    <textarea id="ingredientInput" placeholder="Paste ingredients here..."></textarea>
+    <button onclick="scanIngredients()">Scan</button>
+    <div id="results"></div>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html> 
